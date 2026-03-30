@@ -1,0 +1,43 @@
+{
+  "SD9SS01893": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Markus Voigt, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Jose Agusti Garrigo, Crer. Afores, 25125 Lleida-Alguaire, Spanien",
+    "price": "4.800 €",
+    "description": "Hersteller: Ducati <br>Typ: 900 SS Superlight <br> Fahrgestelnummer: ZDM906SC2013392 <br> Erstzulassung: 02/1994 <br> KM laut Vorbesitzer: 57.102  km <br>Leistung: 57 kW (77 PS) <br>Hubraum: 900 cm³<br> Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> Bezitser 1 <br> Viele Extras; Originalteile vorhanden <br> Niederländische Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Jose Agusti Garrigo <br>Jose Agusti Garrigo<br> 25125 Lleida-Alguaire <br> Spanien <br> Telefon: +34 626697442",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "14-03-2026",
+    "deliveryDate": "24-03-2026",
+    "pickup": {
+      "street": "Lindenstraat 33",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Jose Agusti Garrigo",
+      "postal_code": "25125",
+      "city": "Lleida-Alguaire",
+      "country": "Spanien"
+    }
+  }
+}
